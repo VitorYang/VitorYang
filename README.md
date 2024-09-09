@@ -63,8 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/VitorYang/VitorYang/output/snake.svg" alt="Snake animation" />
 
-###
 
 

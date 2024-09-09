@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Compliance Analyst<br>- Content Creator at @Vitor Yang<br>- Compliance Analyst at @Mercado Livre<br>- Studying React</p>
+<p align="left">- Compliance Analyst<br>- Content Creator at @VitorYang<br>- Compliance Analyst at @Mercado Livre<br>- Studying React</p>
 
 ###
 
